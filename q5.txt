@@ -1,0 +1,5 @@
+- Ligo o primeiro e o segundo interrupitor e vou a uma das salas se não tiver acendido então sei que o ultimo interruptor pertence a esta sala.
+
+- Então volto a minha sala e desligo o primeiro ou o segundo interruptor.
+
+- Depois disso vou para a segunda sala, caso a lampada esteja acesa, então sei que o interruptor que ficou ligado pertence a sala em que estou visitando, caso esteja desligada sei que o interruptor ligado pertence a terceira sala e o interruptor que acabei de desligar é o interruptor da sala em que estou visitando.
